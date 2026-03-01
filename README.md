@@ -11,7 +11,7 @@ The project has been fully built out according to the requested specifications, 
     Passwords hashed using bcryptjs.
 - Role-Based Access Control (RBAC): Middleware (protect, authorizeRoles) secures endpoints so regular users can only interact with their own tasks, while admin users can query the entire dataset.
 2. Frontend Interface
-Tech Stack: Vite, React Router DOM, Axios, Tailwind CSS, and Shadcn UI principles. (Configured dynamically with custom @tailwindcss/postcss integration for Vite v5/Tailwind v4 compatibility).
+- Tech Stack: Vite, React Router DOM, Axios, Tailwind CSS, and Shadcn UI principles. (Configured dynamically with custom @tailwindcss/postcss integration for Vite v5/Tailwind v4 compatibility).
 - Rich Aesthetics:
 Glassmorphism effects on the Navbar (backdrop-blur-md, bg-card/80).
 Dark Mode by default following standard Shadcn styling conventions (bg-background, text-foreground).
